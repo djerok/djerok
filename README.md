@@ -4,7 +4,7 @@ I'm a student.
 
 ### What I'm into right now
 - **C++ & Python** — pretty much what the world runs on behind the scenes. All the real logic lives here, and that's exactly why I love learning them — and why I know they'll take me far.
-- **AI & machine learning** — it genuinely fascinates me. It's one of the hardest things in tech to truly wrap your head around, and it's endlessly useful — that mix is what hooks me.
+- **AI & machine learning** — it genuinely fascinates me. It's one of the hardest things in tech to truly wrap your head around, and it's endlessly useful — that mix is what hooks me. I'm learning it hands-on over on [Hugging Face](https://huggingface.co/djerok).
 - **Robotics** — a field that's still wide open. So many problems haven't been solved yet, and I like being somewhere there's real room to figure things out.
 - **Math & physics** — how I make sense of the world. It's also the foundation under everything else here, so it all comes back to these.
 
@@ -15,6 +15,7 @@ I've always wondered what's going on behind the scenes. I like pulling problems 
 I game. A lot. Mostly **FPS** — **Counter-Strike** (the favorite) and **Valorant** — but I'll happily disappear into a singleplayer world like **Elden Ring** or **Cyberpunk 2077**. And when the friends are on, we'll drop into something dumb and fun like **Minecraft** or **Roblox**.
 
 **Find me / add me:**
+- 🤗 **Hugging Face** — [huggingface.co/djerok](https://huggingface.co/djerok)
 - ▶️ **YouTube** — [@djerok1334](https://www.youtube.com/@djerok1334)
 - 🎮 **Steam** — [steamcommunity.com/id/djerok](https://steamcommunity.com/id/djerok)
 - 💬 **Discord** — `djerok`
