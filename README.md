@@ -17,12 +17,13 @@ I game. A lot. Mostly **FPS** — **Counter-Strike** (the favorite) and **Valora
 **Find me / add me:**
 - 🤗 **Hugging Face** — [huggingface.co/djerok](https://huggingface.co/djerok)
 - ▶️ **YouTube** — [@djerok1334](https://www.youtube.com/@djerok1334)
+- 📧 **Email** — [djerok116@gmail.com](mailto:djerok116@gmail.com)
 - 🎮 **Steam** — [steamcommunity.com/id/djerok](https://steamcommunity.com/id/djerok)
 - 💬 **Discord** — `djerok`
 - 🕹️ **Epic Games** — `djerok116`
 - ⚔️ **Riot ID** — `djerok#116`
 - ⛏️ **Minecraft** — `djerok`
-
+  
 ---
 
 > I follow **CS2** esports as closely as I play — I'm in it for the players' stories as much as the matches. For years I've followed **NiKo**'s: a player who climbed to the very edge of the top again and again, only to fall at the moments that mattered most — and who rose every single time, and came back stronger for it. When he finally reached the summit after a decade of chasing it, it only proved what I already believed.
